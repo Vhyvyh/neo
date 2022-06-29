@@ -1,7 +1,7 @@
   {
-  "name": "NeoMD",
+  "name": "FauziMD",
   "version": "1.2.3",
-  "description": "Created By Lexxy Official",
+  "description": "Created By Fauzi",
   "main": "cmd.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
 ],
-  "author": "Lexxy Official",
+  "author": "FauziBotz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
